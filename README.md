@@ -13,7 +13,7 @@
 ---
 
 ## Key features
-- **Configurable steps** and **degrees per step** (positive or negative).  
+- **Configurable steps** and **degrees per step** (negative).  
 - **Compass‑based capture** with adjustable heading tolerance and haptic feedback.  
 - **Timed fallback burst** when heading is unavailable.  
 - **Flash handling**: uses camera flash when available; simulates flash with torch when needed.  
